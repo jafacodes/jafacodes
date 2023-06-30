@@ -13,6 +13,32 @@
 </p>
 <br>
 
+## About Me
+
+I'm Jaafar, a passionate full stack developer with extensive experience in JavaScript. I have a strong background in building scalable web applications and love turning ideas into reality with code. Apart from coding, I'm also enthusiastic about teaching others how to code and empowering them to pursue their own programming journey.
+
+## Skills
+
+- **Front-end**: HTML, CSS, TailwindCSS, JavaScript, React
+- **Back-end**: Node.js, Express.js
+- **Full-stack**: NextJS
+- **Database**: MySQL, PostgreSQL, MongoDB
+- **Version Control**: Git, GitHub
+- **Other Technologies**: TypeScript
+
+## 💬 Let's Connect
+
+I'm always open to collaboration and connecting with fellow developers. Feel free to reach out to me through the following channels:
+
+- Email: [jafacodes@gmail.com](mailto:jafacodes@gmail.com)
+- Twitter: [@jafacodes](https://twitter.com/jafacodes)
+
+## Learning Never Stops
+
+I am a firm believer in continuous learning. Currently, I'm exploring new technologies like NextJS and expanding my skill set. Let's embark on this learning journey together!
+
+Looking forward to connecting with you and exploring the vast world of code!
+
 ## 👨🏻‍💻 &nbsp;Things I code with ##
 <p>
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
